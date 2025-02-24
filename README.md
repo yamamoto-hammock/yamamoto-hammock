@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm yamamoto-hammock
 
-<!--
-**yamamoto-hammock/yamamoto-hammock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a web developer
 
-Here are some ideas to get you started:
+## Programming Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Languages](https://skillicons.dev/icons?i=ruby,cs,java,php,html,css,js)
+
+## Frameworks and Libraries
+
+![Frameworks](https://skillicons.dev/icons?i=rails)
+
+## DB and Dev Tools etc
+
+![Tools](https://skillicons.dev/icons?i=mysql,dynamodb,docker,git,github,linux,aws,nginx,sentry,vscode)
+
+## Stats
+
+[![Profile Views](https://komarev.com/ghpvc/?username=yamamoto-hammock&color=orange)](https://github.com/yamamoto-hammock/yamamoto-hammock)
+[![GitHub Followers](https://img.shields.io/github/followers/yamamoto-hammock?label=follow&logo=github&style=flatk&color=orange)](https://github.com/yamamoto-hammock)
+[![GitHub Stars](https://img.shields.io/github/stars/yamamoto-hammock?logo=github&style=flatk&color=orange)](https://github.com/yamamoto-hammock)
+
+[![Profile Details](https://raw.githubusercontent.com/yamamoto-hammock/yamamoto-hammock/main/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Stats](https://raw.githubusercontent.com/yamamoto-hammock/yamamoto-hammock/main/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Productive Time](https://raw.githubusercontent.com/yamamoto-hammock/yamamoto-hammock/main/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
