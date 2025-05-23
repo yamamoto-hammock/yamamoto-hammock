@@ -1,4 +1,4 @@
-# Hi 👋, I'm yamamoto-hammock
+# Hi 👋, I'm kyama
 
 #### I'm a web developer
 
